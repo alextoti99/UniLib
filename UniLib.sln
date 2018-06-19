@@ -3,29 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UniLib", "UniLib\UniLib.vcxproj", "{1F2801D3-F72A-46DB-8325-FEAFC7EC4208}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniLib", "UniLib\UniLib.csproj", "{99E277F1-8386-4D1E-A7B8-BCD1416141C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1F2801D3-F72A-46DB-8325-FEAFC7EC4208}.Debug|x64.ActiveCfg = Debug|x64
-		{1F2801D3-F72A-46DB-8325-FEAFC7EC4208}.Debug|x64.Build.0 = Debug|x64
-		{1F2801D3-F72A-46DB-8325-FEAFC7EC4208}.Debug|x86.ActiveCfg = Debug|Win32
-		{1F2801D3-F72A-46DB-8325-FEAFC7EC4208}.Debug|x86.Build.0 = Debug|Win32
-		{1F2801D3-F72A-46DB-8325-FEAFC7EC4208}.Release|x64.ActiveCfg = Release|x64
-		{1F2801D3-F72A-46DB-8325-FEAFC7EC4208}.Release|x64.Build.0 = Release|x64
-		{1F2801D3-F72A-46DB-8325-FEAFC7EC4208}.Release|x86.ActiveCfg = Release|Win32
-		{1F2801D3-F72A-46DB-8325-FEAFC7EC4208}.Release|x86.Build.0 = Release|Win32
+		{99E277F1-8386-4D1E-A7B8-BCD1416141C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E277F1-8386-4D1E-A7B8-BCD1416141C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E277F1-8386-4D1E-A7B8-BCD1416141C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E277F1-8386-4D1E-A7B8-BCD1416141C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6BAC53FA-3363-4645-B77D-AC19CA6D1631}
+		SolutionGuid = {306D4FA6-715B-4521-9399-94637E10C2EA}
 	EndGlobalSection
 EndGlobal
